@@ -1,0 +1,15 @@
+name: AutoBossBarAnnouncer
+main: me.Prunt.abba.Main
+version: 1.1
+author: Prunt
+description: Simple and lightweight plugin to display announcements in Boss Bar.
+webpage: 'https://www.spigotmc.org/resources/autobossbarannouncer-abba.32276/'
+
+commands:
+  abba:
+    aliases: [autobossbarannouncer]
+    description: Reloads the plugin config.
+    permission: abba.reload
+permissions:
+  abba.reload:
+    default: op

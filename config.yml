@@ -1,0 +1,7 @@
+# Messages to display in random order
+random-messages:
+  - "§6Colorful §lstuff!"
+  - "§1§lWelcome to my server!"
+  - "Change these messages in the §7config file§r."
+# Time in seconds between messages, also duration of them
+time-between: 10
